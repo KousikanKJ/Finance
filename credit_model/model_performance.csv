@@ -1,0 +1,6 @@
+Metric,Value,Interpretation
+Accuracy,0.695,Overall correct predictions
+Precision,0.700507614213198,Accuracy of positive predictions
+Recall,0.9857142857142858,Ability to find all positive cases
+F1-Score,0.8189910979228486,Harmonic mean of precision and recall
+AUC-ROC,0.40440476190476193,Area under ROC curve
